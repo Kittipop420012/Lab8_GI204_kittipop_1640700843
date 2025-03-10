@@ -207,7 +207,7 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 27313476}
   serializedVersion: 4
-  m_Mass: 1
+  m_Mass: 50
   m_Drag: 0
   m_AngularDrag: 0.05
   m_CenterOfMass: {x: 0, y: 0, z: 0}
@@ -672,7 +672,7 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1470760990}
   serializedVersion: 4
-  m_Mass: 10
+  m_Mass: 15
   m_Drag: 0
   m_AngularDrag: 0.05
   m_CenterOfMass: {x: 0, y: 0, z: 0}
@@ -704,7 +704,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   planet: 0
-  orbitSpeed: 1000
+  orbitSpeed: 1300
 --- !u!1 &1526980365
 GameObject:
   m_ObjectHideFlags: 0
@@ -902,7 +902,7 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1685923763}
   serializedVersion: 4
-  m_Mass: 200
+  m_Mass: 10
   m_Drag: 0
   m_AngularDrag: 0.05
   m_CenterOfMass: {x: 0, y: 0, z: 0}
@@ -934,7 +934,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   planet: 0
-  orbitSpeed: 1000
+  orbitSpeed: 500
 --- !u!1001 &1701347863
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1015,7 +1015,7 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1701347864}
   serializedVersion: 4
-  m_Mass: 1000
+  m_Mass: 15
   m_Drag: 0
   m_AngularDrag: 0.05
   m_CenterOfMass: {x: 0, y: 0, z: 0}
@@ -1047,7 +1047,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   planet: 0
-  orbitSpeed: 1800
+  orbitSpeed: 1500
 --- !u!1001 &1747286463
 PrefabInstance:
   m_ObjectHideFlags: 0
